@@ -33,3 +33,5 @@
 
 # Binaries
 *.bin
+
+.vscode/*
